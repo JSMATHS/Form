@@ -1,0 +1,167 @@
+form{
+    width: 50%;
+    margin: 10px auto;
+    text-align: center;
+    
+}
+
+label{
+    display: inline-block;
+    width:100px ;
+    text-align: left;
+}
+
+ #emailid{
+background-image: url('file:///C:/Users/msts2/Downloads/what%20xccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc.png');
+background-size: 20px;
+background-repeat: no-repeat;
+background-position: left;
+padding-left: 20px;
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+#passcode{
+    background-image: url('https://th.bing.com/th/id/R.f8419d2025495fb21a8b4708c050e008?rik=JWMsPXEb%2f0TBVw&pid=ImgRaw&r=0');
+    background-size: 15px;
+background-repeat: no-repeat;
+background-position: left;
+padding-left: 20px;
+
+
+
+
+} 
+
+
+
+
+
+
+  body{ 
+
+
+
+
+
+    background-image:url('https://live.staticflickr.com/8150/7704844036_62bb67371d.jpg')  ;
+    background-repeat: no-repeat;
+    background-size: 50%;
+    height: 20px; 
+} 
+
+
+
+ form{
+    background-color:black;
+    color:white;
+    border: 2px solid ; 
+     padding: 50px; 
+     box-shadow:15px 15px 15px white ; 
+}
+
+body{ 
+    background-color: tomato 
+} 
+
+
+/* input:hover{ */
+    /* background-color: fuchsia;} */
+
+
+     #emailid:focus{
+        background-color:tomato;
+    } 
+
+
+
+
+
+    input:focus{
+     background-color: fuchsia;
+     color: white; 
+    }  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+li{
+    display: inline-block;
+     background-color: aqua; 
+width: 100px;
+text-align: center;
+}
+
+
+/* img{ */
+    /* width: 50px; */
+    /* height: 22px; */
+/* } */
+
+
+ul{
+    background-color: yellow;
+}
+
+
+
+
+
+
+#sarah:hover{
+    
+    color: darkorchid;
+}
+
+
+
+
+
+
+
+
+
+
+#button{
+    box-shadow: 10px 10px 10px rgb(74, 74, 74);
+}
